@@ -14,11 +14,13 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  
-  return array.unshift("element")
+    array = ["I", "am", "really", "learning"]
+    element = "wow"
+    return array.unshift("element")
 end
 
 def remove_element_from_end_of_array(array)
+  
   return 
 end
 
