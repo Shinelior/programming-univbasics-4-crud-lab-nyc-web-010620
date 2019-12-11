@@ -11,7 +11,7 @@ def add_element_to_end_of_array(array, element)
     element = "arrays!"
      array<< "element"
      
-     
+     return
 end
 
 def add_element_to_start_of_array(array, element)
