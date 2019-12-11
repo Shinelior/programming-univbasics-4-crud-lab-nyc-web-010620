@@ -27,7 +27,7 @@ end
 
 def remove_element_from_start_of_array(array)
   
-  return 
+  return array.shift
   
 end
 
